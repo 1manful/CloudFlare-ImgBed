@@ -27,7 +27,7 @@ AUTH_CODE = "258147wjx"
 
 
 [[d1_databases]]
-binding = "img_d1"
+binding = "DATABASE"
 database_name = "img_d1"
 database_id = "8605ed5b-baf9-44e0-89fe-944ac96e696d"
 
